@@ -59,8 +59,8 @@ I enjoy building technology-driven solutions, experimenting with new tools, and 
 ### 🤝 Connect With Me
 
 - **GitHub:** [@aadhish-saini](https://github.com/aadhish-saini)
-- **LinkedIn:** Add your LinkedIn URL
-- **Email:** Add your professional email
+- **LinkedIn:** [@aadhish-saini](https://www.linkedin.com/in/aadhish-saini/)
+- **Email:** aadhishsainii@gmail.com
 
 ---
 
